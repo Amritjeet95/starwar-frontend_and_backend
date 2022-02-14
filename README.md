@@ -9,3 +9,5 @@ Steps to Run:
 	3. There should be two directory startwar-frontend and startwar-backend, go to each and run npm install
 	4. After that, go to startwar-backend directory and run the backend (node server.js), it should start on localhost port 8081
 	5. Then go to startwar-frontend and start the frontend (npm start), this will run on localhost 3000. After successful start It will launch the application and you can explore the design.
+
+Note: Project is deployed in aws and here is the url : http://d2b37up1rtkicg.cloudfront.net/
