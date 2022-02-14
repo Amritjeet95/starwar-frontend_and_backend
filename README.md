@@ -4,7 +4,7 @@ Pre-requisite:
 	1. You should have a node installed on your machine and env path setup to run node.
 	2. You should have any editor of your choice (preferably Visual Studio Code)
 Steps to Run:
-	1. Clone the repository in the local machine (git clone <repo url>
+	1. Clone the repository in the local machine (git clone https://github.com/Amritjeet95/starwar-frontend_and_backend.git)
 	2. Go to the cloned directory from the command prompt or inbuild terminal from VSCode.
 	3. There should be two directory startwar-frontend and startwar-backend, go to each and run npm install
 	4. After that, go to startwar-backend directory and run the backend (node server.js), it should start on localhost port 8081
